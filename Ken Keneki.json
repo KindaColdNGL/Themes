@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "author": "𝙀𝙫𝙚#5029",
+        "name": "Ken Keneki"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/777535108520738860\/895287149904166952\/Screenshot_2021-10-06-20-31-16-73.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 1776414,
+        "background": 2631720,
+        "accent": -2673622,
+        "mention_highlight": 1921195800
+    },
+    "colors": {
+        "primary_dark_300": -2673622,
+        "uikit_settings_item_text_color_light": -4444635,
+        "primary_dark_400": -2673622,
+        "uikit_btn_bg_color_selector_green": -3854298
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -930930920,
+        "ic_menu_24dp": -2673622,
+        "ic_channel_text": -2673622
+    }
+}
