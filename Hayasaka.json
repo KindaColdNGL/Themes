@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "𝙀𝙫𝙚#5029",
+        "name": "Hayasaka",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/868419532992172073\/895176950556033074\/insta_1.gif"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -3145522,
+        "background": 1291845632,
+        "background_secondary": 1207959552,
+        "mention_highlight": 1258225887
+    },
+    "colors": {
+        "primary_dark_300": -4128562
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1547960132
+    }
+}
