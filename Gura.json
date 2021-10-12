@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "𝙀𝙫𝙚#5029",
+        "name": "Gura",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/895135229533122585\/895157384908009472\/images_16_19_1.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -11824171,
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": 1129026517
+    },
+    "colors": {
+        "primary_dark_300": -11824171,
+        "primary_dark_400": -9459234,
+        "uikit_settings_item_text_color_light": -9459234,
+        "uikit_btn_bg_color_selector_red": -16753491,
+        "uikit_btn_bg_color_selector_green": -9459234
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1572105259,
+        "drawable_bg_voice_user_overlay": -7094298,
+        "ic_channel_text": -11824171,
+        "ic_thread": -11824171,
+        "ic_channel_text_nsfw": -11824171,
+        "ic_channel_voice": -11824171
+    }
+}
