@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "author": "𝙀𝙫𝙚#5029",
+        "version": "1.2.0",
+        "name": "BluFord"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/895162852996956220\/895179265224638465\/images_67_1.jpeg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/881344281024016405\/884755124373827624\/Quicksand_Regular_400.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "accent": -16746548,
+        "mention_highlight": 840869631
+    },
+    "colors": {
+        "primary_dark_660": 0,
+        "uikit_btn_bg_color_selector_red": -15118208,
+        "link": -11223553,
+        "brand_new_560": 1649720319,
+        "primary_dark_300": -1925796865,
+        "primary_dark_400": -11824171,
+        "uikit_settings_item_text_color_light": -13069858,
+        "uikit_btn_bg_color_selector_green": -9459234
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1370118445,
+        "drawable_voice_indicator_speaking": -16733441,
+        "drawable_button_red": -16752967,
+        "drawable_button_grey": -16764020,
+        "ic_thread": -14188851,
+        "ic_channel_text": -14188851,
+        "ic_channel_voice": -14188851
+    }
+}
